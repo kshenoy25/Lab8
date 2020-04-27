@@ -1,0 +1,22 @@
+Are you an Avenger ?
+Can you shoot webs?
+Spider man
+null
+Iron Man
+null
+null
+Do you fly in the Sky ?
+Superman
+null
+Do you have blind senses?
+I am Daredevil
+null
+I am big and green
+I am Hulk
+null
+Batman
+null
+null
+null
+null
+null
